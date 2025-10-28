@@ -109,20 +109,16 @@ Output: Cluster label (High-Value / Regular / Occasional / At-Risk)
 
 
 **🛠 Tech Stack Used**
-**Category	                                               Tools / Libraries**
-🐍 Programming	                                                Python
 
-📊 Data Analysis	                                           Pandas, NumPy
-
-🤖 Machine Learning	                                Scikit-learn (KMeans, Cosine Similarity)
-
-📈 Visualization	                                        Matplotlib, Seaborn
-
-🖥️ Web App	                                                   Streamlit
-
-💾 Model Storage	                                               oblib
-
-☁️ Deployment	                                           Google Colab + ngrok
+| Category| Tools / Libraries |
+|:---------|:---------------|
+| 🐍 Programming   | Python |
+| 📊 Data Analysis	  | Pandas, NumPy |
+| 🤖 Machine Learning	  | Scikit-learn (KMeans, Cosine Similarity) |
+| 📈 Visualization	       | Matplotlib, Seaborn |
+| 🖥️ Web App	       | Streamlit |
+| 💾 Model Storage	        | oblib |
+| ☁️ Deployment	        | Google Colab + ngrok |
 
 **🎯 Real-World Business Use Cases**
 
