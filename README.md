@@ -100,12 +100,13 @@ Input: Recency, Frequency, Monetary values
 Output: Cluster label (High-Value / Regular / Occasional / At-Risk)
 
 **📊 Sample Dashboard Features**
-**Module                                                   	Functionality**
-🧾 Product Recommendation                         	Recommends similar products based on purchase similarity
 
-👥 Customer Segmentation	                          Predicts which segment a customer belongs to using RFM input
+| Module | Functionality | 
+|-----------|-----------|
+| 🧾 Product Recommendation    | Recommends similar products based on purchase similarity   | 
+| 👥 Customer Segmentation	    | Predicts which segment a customer belongs to using RFM input   |
+| 📦 Explore Products          | Displays top 50 revenue-generating items   | 
 
-📦 Explore Products	                                Displays top 50 revenue-generating items
 
 **🛠 Tech Stack Used**
 **Category	                                               Tools / Libraries**
